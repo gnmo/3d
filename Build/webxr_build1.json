@@ -1,0 +1,16 @@
+{
+"companyName": "AgathaP",
+"productName": "Sinsa3D",
+"productVersion": "1.0",
+"dataUrl": "webxr_build1.data.unityweb",
+"wasmCodeUrl": "webxr_build1.wasm.code.unityweb",
+"wasmFrameworkUrl": "webxr_build1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222222",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
